@@ -1,0 +1,1 @@
+https://duino4projects.com/make-arduino-based-home-automation-part-1-using-arduino-uno-r3/
